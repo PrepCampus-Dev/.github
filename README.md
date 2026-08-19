@@ -20,9 +20,9 @@ Our work focuses on:
 * Coding Assessments
 * Campus Recruitment Assessments
 * Learning Management Systems
+* Customize Mock Test
 * Hackathon Platforms
 * AI-Powered Interview Solutions
-* Placement Preparation Technology
 * Student Performance & Analytics
 * Custom Educational Technology Solutions
 
@@ -38,9 +38,10 @@ Students can access:
 * Coding & DSA Practice
 * Quantitative Aptitude
 * Logical Reasoning
-* Programming Challenges
+* Verbal Ability
+* Programming Quize
+* Coding Practice
 * Daily Aptitude Challenges
-* Daily Coding Challenges
 * Placement Preparation Resources
 * Performance Tracking & Analytics
 * Career-Focused Learning Programs
